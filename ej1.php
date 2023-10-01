@@ -1,6 +1,6 @@
 <?php
 
-/* Muestra tres frases, cada una en un párrafo, utilizando las tres posibilidades que existen de mostrar contenido.
+/*-Muestra tres frases, cada una en un párrafo, utilizando las tres posibilidades que existen de mostrar contenido.
     Tras ello introduce dos comentarios, uno de bloque y otro de línea.
  */
 
